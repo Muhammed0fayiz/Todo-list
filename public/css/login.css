@@ -1,0 +1,16 @@
+
+    .login-box{
+     width: 35vw;
+     height: 70vh;
+     background-color:rgb(223, 223, 197);
+    margin-left: 25rem;
+    margin-top: 2rem;
+    border-radius:3rem;
+     
+    }
+.input {
+    width:30vw;
+    height: 12vh;
+    margin-left: 2rem;
+    border-radius:20px;
+}
