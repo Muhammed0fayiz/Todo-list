@@ -1,7 +1,7 @@
 
     .login-box{
      width: 35vw;
-     height: 70vh;
+     height: 80vh;
      background-color:rgb(223, 223, 197);
     margin-left: 25rem;
     margin-top: 2rem;
@@ -13,4 +13,5 @@
     height: 12vh;
     margin-left: 2rem;
     border-radius:20px;
+     text-align: center; 
 }
